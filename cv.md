@@ -29,6 +29,8 @@ Development of a structural scheme of structures, collection of loads, calculati
   * TCP EN 1993 Eurocode 3. Design of steel structures.
 * RS School "JavaScript/Front-end. Stage 0" 
 * RS School. Курс JS/Frontend-разработка. Stage#1 (in progress)
+### Experience:
+* [Portfolio task] (https://rolling-scopes-school.github.io/katyakapeika-JSFEPRESCHOOL/portfolio/)
 ### Education:
 * Belarusian National Technical University, Faculty of Civil Engineering, specialty PGS 
 ### Languages:
