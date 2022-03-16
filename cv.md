@@ -19,7 +19,7 @@ Development of a structural scheme of structures, collection of loads, calculati
 * Autocad
 * HTML, CSS
 * VS Code
-* Git, GitHub (in progress)
+* Git, GitHub 
 * JavaScript (Basic) (in progress)
 ### Additional training:
 * Training in the program "Design of building structures according to the requirements of European standards (Eurocodes)": 
