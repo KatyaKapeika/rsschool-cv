@@ -1,0 +1,123 @@
+body.page-cv {
+    background-color: #9ea397; /* Цвет фона веб-страницы */
+    width: 1000px;
+    min-height: 100vh;
+    margin: auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; /* семейство шрифта */
+    }
+.header-block {
+    background: yellowgreen;
+    height: 350px;
+    display: flex;
+}
+.cv-block {
+    display: flex;
+    margin: 10px 0px;
+} 
+.left-block {
+    background-color: yellowgreen;
+    width: 100%;
+    /*margin-top: 20px;*/
+    margin: 0px 10px 0px 0px;
+}
+.contact-header {
+    padding: 60px;
+}
+.contact-list {
+    padding-left: 70px;
+    line-height: 2;
+    /*border-bottom: 1px solid #999; /* Параметры линии снизу */
+    font-size: 15pt; /* Размер шрифта в пунктах */
+}
+.right-block {
+    background-color: #ebfbd4;
+    padding: 0px 10px;
+
+}
+.title {
+    margin: 70px 70px 125px 100px;
+    line-height: 50px;
+
+}
+.name-title {
+    font-size: 40px;
+    /*padding-top: 30px;*/
+      
+}
+.foto {
+    border-radius: 150px;
+    overflow: hidden;
+    height: 300px;
+    width: 300px;
+    margin: 25px 25px;
+}
+.vacation-title {
+    border-bottom: 3px solid #6a7459;; /* Параметры линии снизу */
+    font-size: 25px;  
+}
+.header {
+    background-color: #9ea397;
+}
+
+.skills-list {
+    margin-left: 60px;
+    padding: 0;
+    padding-left: 20px;
+}
+
+.training-list {
+    margin-left: 60px;
+    padding-left: 20px;
+}
+.languages-list {
+    margin-left: 60px;
+    padding-left: 20px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding: 0px 60px 0px 60px;
+    color: rgb(5, 5, 5);
+    background-color: yellowgreen;
+}
+.footer-github {
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+}
+.footer-year {
+    justify-self: center;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+}
+.footer-rsschool {
+    justify-self: end;
+    color: rgb(5, 5, 5);
+}
+.nav {
+    background: yellowgreen;
+    height: 50px;
+}
+.nav-block {
+      list-style: none;
+      display: flex; 
+      justify-content: center;
+      padding: 0px;
+      margin: 0px;
+}
+.nav-link { 
+    padding: 15px;
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+    transition: .3s;
+    line-height: 3;
+    font-weight: bold;
+    border-bottom: 3px solid #6a7459;
+}
+.link {
+    text-decoration: none;
+    
+}
